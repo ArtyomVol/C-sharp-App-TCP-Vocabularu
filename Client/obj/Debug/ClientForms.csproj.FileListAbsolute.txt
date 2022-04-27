@@ -1,0 +1,13 @@
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\ClientForms.csprojAssemblyReference.cache
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\ClientForms.AddingTerm.resources
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\ClientForms.DeleteTerm.resources
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\ClientForms.csproj.GenerateResource.cache
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\ClientForms.csproj.CoreCompileInputs.cache
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\bin\Debug\Клиент.exe.config
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\bin\Debug\Клиент.exe
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\bin\Debug\Клиент.pdb
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\Клиент.exe
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\Клиент.pdb
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\ClientForms.EditTerm.resources
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Клиент\obj\Debug\ClientForms.MainForm.resources

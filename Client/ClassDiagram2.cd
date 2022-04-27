@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClientForms.MainForm">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAEAASAAABAQABCAAAACIMI9AAACAHQOAQAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientForms.AddingTerm">
+    <Position X="3.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAKAAABAAAACAAAASAAAYAAAAEGAAAQAAAAA=</HashCode>
+      <FileName>AddingTerm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientForms.EditTerm">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAABAQAACAAAACAAAYAAAAEGAAAQAAAAA=</HashCode>
+      <FileName>EditTerm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientForms.DeleteTerm">
+    <Position X="3.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAACAAAYAAAAAUAAAQAAAAA=</HashCode>
+      <FileName>DeleteTerm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientForms.Client">
+    <Position X="5.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAABAAAgAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

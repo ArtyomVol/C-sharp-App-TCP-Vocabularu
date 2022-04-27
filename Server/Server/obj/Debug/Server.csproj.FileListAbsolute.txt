@@ -1,0 +1,14 @@
+D:\new\Моё\Лабораторные\2 курс\Компьютерные системы и сети\course work\Сервер\Server\bin\Debug\Server.exe.config
+D:\new\Моё\Лабораторные\2 курс\Компьютерные системы и сети\course work\Сервер\Server\bin\Debug\Server.exe
+D:\new\Моё\Лабораторные\2 курс\Компьютерные системы и сети\course work\Сервер\Server\bin\Debug\Server.pdb
+D:\new\Моё\Лабораторные\2 курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\new\Моё\Лабораторные\2 курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\new\Моё\Лабораторные\2 курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.exe
+D:\new\Моё\Лабораторные\2 курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.pdb
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Сервер\Server\bin\Debug\Server.exe.config
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Сервер\Server\bin\Debug\Server.exe
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Сервер\Server\bin\Debug\Server.pdb
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.exe
+D:\Моё\Лабараторные\2 Курс\Компьютерные системы и сети\course work\Сервер\Server\obj\Debug\Server.pdb
